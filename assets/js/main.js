@@ -175,4 +175,4 @@ themeButton.addEventListener('click', () => {
   
 //----------END---------------
 
-// All basic JS is done
+// All basic JS is done here
