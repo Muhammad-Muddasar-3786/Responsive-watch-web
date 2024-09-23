@@ -175,4 +175,3 @@ themeButton.addEventListener('click', () => {
   
 //----------END---------------
 
-// All basic JS is done here
