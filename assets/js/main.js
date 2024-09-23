@@ -175,3 +175,4 @@ themeButton.addEventListener('click', () => {
   
 //----------END---------------
 
+// Basic JS is end here
